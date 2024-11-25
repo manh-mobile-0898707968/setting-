@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 # Hiển thị menu tùy chọn
-echo "tool này mình viết mục đíc cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
+echo "tool này mình viết mục đích cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
 echo "  ~~  Manh Mobile 0898707968   ~~ "
 sleep 3
 echo "https://www.facebook.com/levan.manh.739978/"
