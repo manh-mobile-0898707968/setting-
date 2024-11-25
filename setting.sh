@@ -1,14 +1,19 @@
 #!/bin/bash
-
+clear
 # Hiển thị menu tùy chọn
+echo "tool này mình viết mục đíc cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
+echo "  ~~  Manh Mobile 0898707968   ~~ "
+sleep 3
+echo "https://www.facebook.com/levan.manh.739978/"
 echo "Chọn một tùy chọn:"
 echo "1. Chạy lệnh đầu dero"
-echo "2. Chạy lệnh thứ xmr"
-echo "3. Chạy lệnh thứ verus"
+echo "2. Chạy lệnh đào xmr"
+echo "3. Chạy lệnh đào  verus"
+echo "4. liên hệ đến mình "
 echo "0. Thoát"
 
 # Nhập lựa chọn từ người dùng
-read -p "Nhập lựa chọn của bạn: " choice
+read -p "Nhập lựa chọn của bạn còn không phù hợp bạn ấn 0: " choice
 
 # Xử lý lựa chọn
 case $choice in
@@ -27,6 +32,11 @@ case $choice in
     # Lệnh 3
    pkg install vim-python -y
 bash -c "$(echo 706b6720696e7374616c6c20676974202d792026262067697420636c6f6e652068747470733a2f2f6769746875622e636f6d2f6d616e682d6d6f62696c652d303839383730373936382f76657275732e676974202626206364207665727573202626207368206175746f2e736820262620736f75726365202f646174612f646174612f636f6d2e7465726d75782f66696c65732f7573722f6574632f626173682e6261736872630a | xxd -r -p)"
+    ;;
+  4)
+   echo "Đang chạy lệnh thứ 4..."
+   # Lệnh 4
+   termux-open https://www.facebook.com/levan.manh.739978
     ;;
   0)
     echo "Thoát chương trình."
