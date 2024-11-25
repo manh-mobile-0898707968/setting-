@@ -5,7 +5,8 @@ echo "tool này mình viết mục đích cho anh em đào coin tiện lợi tro
 echo "  ~~  Manh Mobile 0898707968   ~~ "
 sleep 3
 echo "https://www.facebook.com/levan.manh.739978/"
-echo "Chọn một tùy chọn:"
+echo "Chọn một số tùy chọn :"
+echo " 1   2   3  4  0 "
 echo "1. Chạy lệnh đầu dero"
 echo "2. Chạy lệnh đào xmr"
 echo "3. Chạy lệnh đào  verus"
