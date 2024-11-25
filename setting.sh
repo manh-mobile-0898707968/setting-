@@ -10,7 +10,7 @@ echo " 1   2   3  4  0 "
 echo "1. Chạy lệnh đầu dero"
 echo "2. Chạy lệnh đào xmr"
 echo "3. Chạy lệnh đào  verus"
-echo "4. liên hệ đến mình "
+echo "4. liên hệ đến mình để tool hoàn thiện hơn "
 echo "0. Thoát"
 
 # Nhập lựa chọn từ người dùng
